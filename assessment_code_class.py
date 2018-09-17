@@ -1,4 +1,4 @@
-# This is a refactored version of my Ada Program Application Assessment. 
+# This is a refactored version of my Ada Program Application Assessment for C10. 
 # This version uses object oriented programming. Classes are created for 
 # Schools and Loan Types.
 # There is a significant time savings in parsing the data from the csv file 
