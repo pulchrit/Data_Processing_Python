@@ -1,7 +1,7 @@
 # Data_Processing_Python
 Simple data processing from csv file using Python.
 
-The data from the csv is processed and analyized to answer the following questions. 
+The data from the csv is processed and analyzed to answer the following questions. 
 
 1. How many schools had disbursed a total of greater than or equal
 to $707,300 and less than $800,895 in loans for the time period reported
